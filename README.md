@@ -51,7 +51,7 @@ Assertion techniques
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Playwright_Basics.git
+git clone https://github.com/mithuntc/Playwright_Basics.git
 cd Playwright_Basics
 
 npm install
